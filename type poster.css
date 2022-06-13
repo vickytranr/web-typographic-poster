@@ -830,7 +830,7 @@ ul.a {
 /* COPYTEXT */
 /* WHERE IS THE EVENT */
 .where{
-    font-family: Helvetica, Arial, sans-serif;
+    font-family:'Courier New', Courier, monospace;
     color: white;
     width:450px;
     font-size: 50px;
@@ -840,6 +840,7 @@ ul.a {
     font-style: bold;
     letter-spacing: 1px;
 }
+/* DETAILS OF THE EVENT */
 .info-p1{
     width:310px;
     top:100px;
