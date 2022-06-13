@@ -838,7 +838,7 @@ ul.a {
     right: 180px;
     position:fixed;
     font-style: bold;
-    line-height: 26px;
+    line-height: 90%;
 }
 /* DETAILS OF THE EVENT */
 .info-p1{
